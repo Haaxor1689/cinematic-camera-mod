@@ -1,0 +1,2 @@
+item.cinematic_camera_mod.camera Camera
+item.cinematic_camera_mod.camera.desc Now I can make those epic slow panning shots.
