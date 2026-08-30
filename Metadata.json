@@ -4,13 +4,14 @@
   "assembly_relative_path": "cinematic_camera_mod.dll",
   "id": "cinematic_camera_mod",
   "display_name": "Cinematic Camera",
+  "description": "Adds a Camera item that can be used to set up panning shots.",
   "contributors": [
     {
       "name": "haaxor1689",
       "role": "author"
     }
   ],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": [
     {
       "id": "allumeria",
