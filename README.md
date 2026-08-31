@@ -1,3 +1,5 @@
+> DEPRECATED! Migrated to https://codeberg.org/Haaxor1689/cinematic-camera-mod
+
 # Cinematic Camera
 
 ![Tooltip](/assets/tooltip.png)
